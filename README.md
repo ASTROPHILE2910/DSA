@@ -5,4 +5,5 @@
 I am also going to include my assignments here.</p>
 </body>
 </html>
-![Types_of_Data_Structure](https://github.com/user-attachments/assets/b3209cc2-522f-48d2-b65f-e602e89fcd5b)
+
+![Types_of_Data_Structure](https://github.com/user-attachments/assets/148c16cb-9f76-4e07-aec8-74ae2a367303)
